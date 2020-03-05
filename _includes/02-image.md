@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Drake cake](https://media.giphy.com/media/l0Hluv3yV9QRirYc0/giphy.gif)
